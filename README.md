@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Joey 👋<br><br>CS student with hands-on experience building backend systems that scale. <br>I've interned at CIBC and CanDeal, where I worked on everything from automating <br>compliance workflows to building threat intelligence pipelines — the kind of work <br>where performance and reliability actually matter.<br><br>I like solving problems at the infrastructure level: optimizing algorithms, <br>cutting latency, reducing costs, and making systems do more with less.<br><br>- 🔭 Currently building a Block Blast AI solver<br>- 🌱 Always exploring better ways to architect backend systems  <br>- 💼 Open to backend / software engineering opportunities<br>
+# Hi there, I'm Joey 👋<br><br>CS student with hands-on experience building backend systems that scale. <br>I've interned at CIBC and CanDeal, where I worked on everything from automating <br>compliance workflows to building threat intelligence pipelines — the kind of work <br>where performance and reliability actually matter.<br><br>I like solving problems at the infrastructure level: optimizing algorithms, <br>cutting latency, reducing costs, and making systems do more with less.<br><br>- 🔭 Currently building a Block Blast AI solver<br>- 🌱 Always exploring better ways to architect backend systems  <br>- 💼 Open to backend / software engineering opportunities
 
 
 # 💻 Tech Stack:
