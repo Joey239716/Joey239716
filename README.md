@@ -1,7 +1,7 @@
 ### 💫 About Me
 **Hi there, I'm Joey 👋**
 
-I'm a CS student focused on building high-performance backend systems. My experience at CanDeal and CIBC involved everything from automating compliance workflows to building threat intelligence pipelines—projects where reliability and low latency are the standard.
+I'm a CS student focused on building high-performance backend systems. My experience at CanDeal and CIBC involved everything from automating compliance workflows to building threat intelligence pipeline, projects where reliability and low latency are vital.
 
 I enjoy solving infrastructure-level problems: optimizing algorithms, reducing costs, and making systems do more with less.
 
