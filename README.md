@@ -5,8 +5,8 @@ I'm a CS student focused on building high-performance backend systems. My experi
 
 I enjoy solving infrastructure-level problems: optimizing algorithms, reducing costs, and making systems do more with less.
 
-* 🔭 **Currently:** Building a v2v fleet communication system
-* 🌱 **Learning:** Advanced backend architecture & systems design
+* 🛰️ **Currently:** Building a v2v fleet communication system
+* 👨🏻‍💻 **Learning:** Advanced backend architecture & systems design
 * 💼 **Looking for:** Backend / Software Engineering opportunities
 
 ---
